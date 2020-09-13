@@ -13,7 +13,7 @@
 
 """
 # -----------------------------------IMPORTS AND LIBRARIES--------------------------------
-BOT_URL = 'https://api.telegram.org/bot1135130528:AAG9gKH4NGjRZVlnZpT9DuSZ6W_tsVhcOQw/'
+BOT_URL = 'https://api.telegram.org/bot1059789534:AAE2SZ-GfXVRYPjv43UKV7Ux_J6tut2flcY/'
 from flask import Flask, request, jsonify
 import requests
 from bot_functions import *
